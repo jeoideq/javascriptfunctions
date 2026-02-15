@@ -1,0 +1,25 @@
+body
+{
+   background-image:url("https://png.pngtree.com/thumb_back/fh260/background/20250205/pngtree-soft-pastel-floral-design-light-blue-background-image_16896113.jpg");
+   background-repeat:no-repeat;
+   background-size:cover;
+   background-position:center;
+   
+}
+
+form
+{
+    display:flex;
+    justify-content: center;
+}
+
+h3
+{
+    text-align: center;
+}
+
+
+
+
+ 
+   
